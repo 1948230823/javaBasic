@@ -88,7 +88,8 @@ public class zuoye {
 
         */
 
-        /*第八题懵逼中*/
+
+
 
 /*第九道
         int sum=0;
@@ -102,7 +103,7 @@ public class zuoye {
         */
 
   //第十题
-        Scanner scanner = new Scanner(System.in);
+       /* Scanner scanner = new Scanner(System.in);
         int input = scanner.nextInt();
         boolean flag = false;
         int temp = 0;
@@ -114,7 +115,7 @@ public class zuoye {
         if(temp%9==0){
             flag = true;
         }
-        System.out.println(flag?"能":"不能");
+        System.out.println(flag?"能":"不能");*/
 
     }
     }

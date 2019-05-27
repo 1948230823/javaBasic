@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
 public class 语句 {
-   // public static void main(String[] args) {
-      //  for (int i=1;i<=20;i++){
-     //       System.out.print("跑步跑了"+i+"圈");
-     //       System.out.print(1);
-     //       System.out.print(2);
+   public static void main(String[] args) {
+       //  for (int i=1;i<=20;i++){
+       //       System.out.print("跑步跑了"+i+"圈");
+       //       System.out.print(1);
+       //       System.out.print(2);
 
 //        }
        /* int a=1;
@@ -27,7 +27,13 @@ public class 语句 {
    if(a==b){
        System.out.println("hello");
    }*/
-   // }
+       //
+   }
+
+
+
+
+
 
 
 }
